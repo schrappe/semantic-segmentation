@@ -1,7 +1,7 @@
 <img class="img-responsive" src = "https://deploy-pdf.s3.amazonaws.com/utscs.png" width="400"/>
 
 # Exploration of Semantic Segmentation Applications for Packaging and E-Commerce Content
-Files used on term project for SCS_3546_007 Deep Learning - Prof. Sina Jamshidi - April 2019
+Files used on term project for SCS_3546_007 Deep Learning - Prof. Sina Jamshidi - April 2020
 
 
 <b>The Goal</b>
